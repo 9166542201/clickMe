@@ -3,6 +3,11 @@ button {
     color: rgb(155, 45, 45);
     font-size: medium;
 }
+#event {
+    background-color: rgb(225, 240, 16);
+    color: rgb(169, 9, 248);
+    font-size: medium;
+}
 input {
     background-color: rgb(136, 206, 150);
     color: rgb(85, 45, 155);
